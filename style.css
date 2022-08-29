@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;700&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .perspective {
+      perspective: 100px;
+    }
+  
+    .preserve-3d {
+      transform-style: preserve-3d;
+    }
+  
+    .distance-1 {
+      transform: translateZ(-60px) scale(2);
+    }
+  
+    .distance-2 {
+      transform: translateZ(-30px) scale(1.5);
+    }
+}

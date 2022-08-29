@@ -2,7 +2,7 @@
 
 
 #### Link to the live website:
->[Parallax-Landingpage](https://devparallax.netlify.app/ "Parallax live site")
+>[Parallax-Landingpage](https://parallax-lac.vercel.app/ "Parallax live site")
 ___
 
 #### Description 
